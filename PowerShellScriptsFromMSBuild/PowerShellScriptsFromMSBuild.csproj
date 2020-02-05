@@ -104,6 +104,7 @@
     <Content Include="Views\web.config" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\Debug.pubxml" />
+    <Content Include="Properties\PublishProfiles\PowerShellScript.ps1" />
     <None Include="Properties\PublishProfiles\Release.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
